@@ -12,18 +12,6 @@
     "adverts": ["xibalba1.ans","xibalba2.ans"]
   },
   {
-    "bbs_name": "Troys Den",
-    "sysop": "Quickshot",
-    "telnet": "troybbs.com",
-    "adverts": ["troysden.ans"]
-  },
-  {
-    "bbs_name": "Deep Space 94",
-    "sysop": "deepthaw",
-    "telnet": "deepspace94.com",
-    "adverts": ["ds94.ans"]
-  },
-  {
     "bbs_name": "Black Flag",
     "sysop": "Hawk Hubbard",
     "telnet": "blackflag.acid.org",
