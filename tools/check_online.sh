@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
 
-# this script checks each entry in adverts.json if they're not reachable it moves the file to the dead directory, and moves the entry to a second json file for manual checking.
+# this script checks each entry in adverts.json if they're not reachable. 
+# It moves the file to the dead directory, and moves the entry to a second json file for manual checking.
+# Then it writes a log file.
+
+# Regular run (live checks + actual moves)
+# ./check_adverts.sh
+
+# Dry-run mode (just show actions)
+#./check_adverts.sh --dry-run
 
 INPUT_JSON="adverts.json"
 DEAD_JSON="dead_adverts.json"
