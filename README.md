@@ -31,5 +31,4 @@ Example:
 
 ## TODO (help gratefully received!)
 - Write native plugins for popular BBS software 
-- Write a BBS checker to remove dead BBS's
 ````
