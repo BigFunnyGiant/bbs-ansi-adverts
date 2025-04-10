@@ -12,12 +12,6 @@
     "adverts": ["xibalba1.ans","xibalba2.ans"]
   },
   {
-    "bbs_name": "The Fat Sandwich",
-    "sysop": "apam",
-    "telnet": "sandwich.magickabbs.com:2023",
-    "adverts": ["sandwich.ans"]
-  },
-  {
     "bbs_name": "Troys Den",
     "sysop": "Quickshot",
     "telnet": "troybbs.com",
