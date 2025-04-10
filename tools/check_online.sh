@@ -16,7 +16,7 @@
 #     - Command-line path input to work on any specified directory
 #
 # USAGE:
-#   ./check_adverts.sh [DIRECTORY] [--dry-run|--undo]
+#   ./check_online.sh [DIRECTORY] [--dry-run|--undo]
 #
 # ARGUMENTS:
 #   DIRECTORY   Optional. Directory containing adverts.json and advert files.
